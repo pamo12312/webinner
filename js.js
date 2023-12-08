@@ -11,6 +11,7 @@ function displayTextContent() {
     resultElement.textContent = 'textContent: ' + testElement.textContent;
 }
 
+
 // Run both functions
 displayInnerText();
 displayTextContent();
