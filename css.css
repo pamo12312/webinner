@@ -1,0 +1,6 @@
+.highlighted {
+    border: 2px solid #3498db;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+}
