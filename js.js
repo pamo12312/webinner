@@ -10,7 +10,5 @@ function displayTextContent() {
     let testElement = document.querySelector('#testElement');
     resultElement.textContent = 'textContent: ' + testElement.textContent;
 }
-
-
 displayInnerText();
 displayTextContent();
