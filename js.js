@@ -4,7 +4,7 @@ function displayInnerText() {
     resultElement.innerText = 'innerText: ' + testElement.innerText;
 }
 
-// Function to get and display textContent using querySelector
+
 function displayTextContent() {
     let resultElement = document.querySelector('#result');
     let testElement = document.querySelector('#testElement');
@@ -12,6 +12,5 @@ function displayTextContent() {
 }
 
 
-// Run both functions
 displayInnerText();
 displayTextContent();
